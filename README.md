@@ -1,4 +1,4 @@
-# My Excel Data Analystics Projects
+# My Excel Data Analytics Projects
 
 This repository contains all the necessary Excel files for my project. Feel free to explore and collaborate!
 
