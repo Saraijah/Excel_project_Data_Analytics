@@ -10,8 +10,11 @@ This is data jobs salary dashboard was created to help job seekers investigate s
 Excel Skills Used
 
 The following Excel skills were untilized for analysis
+
 -Charts
+
 -Formulas and FUnctions
+
 -Data Validation
 
 
@@ -31,6 +34,9 @@ The dataset used for this project contains real world data science job informati
 ## Salary Analysis
 
 As a job seeker new to the data industry, this exploration of the most in-demand and optimal skills has provided valuable insights into the key competencies required to succeed in the data science field.
+[Salary Analysis File]()
+
+
 
 <img width="484" alt="skills_for_data_nerds" src="https://github.com/user-attachments/assets/a513ab35-b367-462f-ace0-eea6712d2b3a" />
 
